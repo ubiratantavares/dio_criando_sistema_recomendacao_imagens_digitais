@@ -1,0 +1,2 @@
+# dio_criando_sistema_recomendacao_imagens_digitais
+# dio_criando_sistema_recomendacao_imagens_digitais
