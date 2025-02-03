@@ -20,10 +20,4 @@ Figura 1: Objetos similares em sua aparência.
 
 Para exemplo, podemos então utilizar o sistema de recomendação por imagens apresentado a seguir: 
 
-https://colab.research.google.com/github/sparsh-ai/rec-tutorials/blob/master/_notebooks/2021-04-27-image-similarity-recommendations.ipynb 
-
-## Materiais de Apoio
-
-A apresentação completa utilizada neste módulo está disponível AQUI
-
-Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+https://colab.research.google.com/github/sparsh-ai/rec-tutorials/blob/master/_notebooks/2021-04-27-image-similarity-recommendations.ipynb
