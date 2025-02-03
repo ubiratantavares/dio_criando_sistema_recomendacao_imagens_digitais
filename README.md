@@ -14,7 +14,7 @@ Para que este sistema seja desenvolvido, vamos treinar uma rede de Deep Learning
 
 Dentro de cada classe devemos ter objetos que são parecidos em sua aparência, como pode ser visto na figura a seguir: 
 
-[Figura 1](https://github.com/ubiratantavares/dio_criando_sistema_recomendacao_imagens_digitais/blob/main/relogios.png)
+![Figura 1](https://github.com/ubiratantavares/dio_criando_sistema_recomendacao_imagens_digitais/blob/main/relogios.png)
  
 Figura 1: Objetos similares em sua aparência.  
 
